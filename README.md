@@ -1,1 +1,1 @@
-![Alt text](<Expense Tracker.png>)
+![Alt text](<public/Expense Tracker.png>)
