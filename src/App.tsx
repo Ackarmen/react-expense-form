@@ -16,6 +16,7 @@ function App() {
 
   return (
     <div className="container col-5">
+      <h1 className="text-decoration-underline text-center mb-5"><span className="fw-light">Personal</span> Expense Tracker</h1>
       <div className="mb-5">
         <ExpenseForm
           onSubmit={(expense) =>
